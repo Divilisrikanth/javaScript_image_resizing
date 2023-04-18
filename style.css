@@ -1,0 +1,15 @@
+/*body {
+  background-color: aqua;
+}*/
+
+#first {
+  display: flex;
+  justify-content: center;
+}
+#first > div {
+  justify-content: center;
+}
+#second {
+  display: flex;
+  justify-content: center;
+}
